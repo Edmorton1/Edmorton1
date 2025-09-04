@@ -1,27 +1,27 @@
-<div style="text-align: center; display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
+<div align="center">
   <h1>Hi there👋 i'm Kirill</h1>
   <h3>Beginner Full Stack developer from Tyumen</h3>
 </div>
 
 # 📊📈 Statistic 
-<div style="text-align: center;">
+<div align="center">
   <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edmorton1&theme=algolia" />
   </div>
-  <div style="display: flex; gap: 15px; justify-content: center; margin-top: 10px;">
+  <div >
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edmorton1&theme=algolia" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edmorton1&theme=algolia" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edmorton1&theme=algolia" />
   </div>
 </div>
 
 # ⚙️💻 Technologies
 
 <!-- <img src="" width="80" /> -->
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" />
-
+  <!--  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mobx/mobx-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80" />
@@ -29,17 +29,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="80" />
-
+  <!--  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" width="80" />
-
+  <!--  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="80" />
-
+  <!--  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="80" />
-
+  <!--  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="80" />
 </div>
 
