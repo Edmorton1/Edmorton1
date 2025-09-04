@@ -1,12 +1,18 @@
 <div style="text-align: center; display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
   <h1>Hi there👋 i'm Kirill</h1>
-  <h3>Beginner fullstack developer from 🌍Tyumen</h3>
+  <h3>Beginner Full Stack developer from Tyumen</h3>
 </div>
 
 # 📊📈 Statistic 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edmorton1&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edmorton1&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edmorton1&theme=algolia)
+<div style="text-align: center;">
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edmorton1&theme=algolia" />
+  </div>
+  <div style="display: flex; gap: 15px; justify-content: center; margin-top: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edmorton1&theme=algolia" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edmorton1&theme=algolia" />
+  </div>
+</div>
 
 # ⚙️💻 Technologies
 
