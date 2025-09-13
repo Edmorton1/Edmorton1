@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there👋 i'm Kirill</h1>
   <h3>Beginner Full Stack developer from Tyumen</h3>
-  <h3>I'm currently working on <a href="https://github.com/Edmorton1/SiteForRhythmGame2">Site for Rhythm Game</a>, my last project - <a href="https://github.com/Edmorton1/Esoft-Project">Esoft-project</a></h3>
+  <h3>I'm currently working on <a href="https://github.com/Edmorton1/SiteForRhythmGame2" target="_blank">Site for Rhythm Game</a>, my last project - <a href="https://github.com/Edmorton1/Esoft-Project" target="_blank">Esoft-project</a></h3>
 </div>
 
 # 📊📈 Statistic 
