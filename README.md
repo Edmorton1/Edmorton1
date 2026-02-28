@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there👋 i'm Kirill</h1>
-  <h3>Beginner Full Stack developer from Tyumen</h3>
+  <h3>Junior Full Stack developer from Tyumen</h3>
 </div>
 
 # 📊📈 Statistic 
